@@ -1,3 +1,7 @@
+  </main>
 <footer>
-    © 2025 – Plateforme de gestion des archives
+    2025  Plateforme de gestion des archives
 </footer>
+</body>
+</html>
+
